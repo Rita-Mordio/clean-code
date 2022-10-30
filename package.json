@@ -1,0 +1,7 @@
+{
+  "name": "clean-code",
+  "version": "1.0.0",
+  "dependencies": {
+    "prettier": "^2.7.1"
+  }
+}
